@@ -1,0 +1,11 @@
+"CustomerID,Name,Age,City,OrderAmount,PaymentMethod,Date
+101,Amit,25,Bangalore,2500,UPI,2024-01-05
+102,Sara,28,Mumbai,1800,Card,2024-01-10
+103,John,30,Delhi,,Cash,2024-02-01
+104,,22,Delhi,2200,Card,2024-02-05
+105,Priya,,Bangalore,3000,Card,2024-03-01
+106,Rahul,35,Chennai,,UPI,2024-03-12
+107,Anita,,Mumbai,1500,,2024-03-15
+108,David,29,,2700,Cash,2024-04-01
+109,Meena,31,Delhi,2100,Card,2024-04-05
+109,Meena,31,Delhi,2100,Card,2024-04-05"
